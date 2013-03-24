@@ -273,7 +273,7 @@ Example       | Result            | Argument
 [ARC]: http://clang.llvm.org/docs/AutomaticReferenceCounting.html
 [CFBoolean]: http://developer.apple.com/mac/library/documentation/CoreFoundation/Reference/CFBooleanRef/index.html
 [kCFBooleanTrue]: http://developer.apple.com/mac/library/documentation/CoreFoundation/Reference/CFBooleanRef/Reference/reference.html#//apple_ref/doc/c_ref/kCFBooleanTrue
-[kCFBooleanFalse]: http://developer.apple.com/mac/library/documentation/CoreFoundation/Reference/CFBooleanRef/Reference/reference.html#//apple_ref/doc/c_ref/kCFBooleanFalse
+[kCFBooleanFalse]:  http://developer.apple.com/mac/library/documentation/CoreFoundation/Reference/CFBooleanRef/Reference/reference.html#//apple_ref/doc/c_ref/kCFBooleanFalse
 [kCFNumberDoubleType]: http://developer.apple.com/library/mac/documentation/CoreFoundation/Reference/CFNumberRef/Reference/reference.html#//apple_ref/doc/c_ref/kCFNumberDoubleType
 [CFNumberGetValue]: http://developer.apple.com/library/mac/documentation/CoreFoundation/Reference/CFNumberRef/Reference/reference.html#//apple_ref/c/func/CFNumberGetValue
 [Unicode Standard]: http://www.unicode.org/versions/Unicode6.0.0/
