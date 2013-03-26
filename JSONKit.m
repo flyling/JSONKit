@@ -150,7 +150,7 @@
 #endif
 
 #if !defined(__LP64__) && ((UINT_MAX != ULONG_MAX) || (INT_MAX != LONG_MAX) || (INT_MIN != LONG_MIN) || (WORD_BIT != LONG_BIT))
-#error JSONKit requires the C 'int' and 'long' types to be the same on 32-bit architectures.
+#error JSONKit requires the C 'int' and 'long' types   to be the same on 32-bit architectures.
 #endif
 
 // Cocoa / Foundation uses NS*Integer as the type for a lot of arguments.  We make sure that NS*Integer is something we are expecting and is reasonably compatible with size_t / ssize_t
